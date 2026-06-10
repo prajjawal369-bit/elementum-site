@@ -4,7 +4,8 @@ A modern, pixel-perfect, and fully responsive landing page developed using **Rea
 
 ##  Live Demo
 *(Once deployed, you can paste your hosting link here, e.g., Vercel / Netlify)*
-- **Live URL:** [Deploy Link Here]
+- **Live URL:** https://elementum-site-gamma.vercel.app/
+- 
 
 ##  Features Implemented
 - **Component-Driven Architecture:** Clean separation of concerns with reusable React components (`ElementumPage.jsx`, `App.jsx`).
